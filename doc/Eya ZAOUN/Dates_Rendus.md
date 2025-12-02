@@ -1,5 +1,5 @@
-Séance 1 -> 08/10/2025 (introduction au projet) .
-Séance 2 -> 23/10/2025 .
-Séance 3 -> 04/11/2025 .
-Séance 4 -> 12/11/2025 .
-Séance 5 + 6 -> 27/11/2025 et 28/11/2025 .
+- Séance 1 -> 08/10/2025 (introduction au projet) .
+- Séance 2 -> 23/10/2025 .
+- Séance 3 -> 04/11/2025 .
+- Séance 4 -> 12/11/2025 .
+- Séance 5 + 6 -> 27/11/2025 et 28/11/2025 .
